@@ -17,11 +17,11 @@ CREATED IMAGE BELOW:
 
 ![Image](/img/WeAreHiring_thumbnail.jpg)
 
-![Image](/img/DoorClosingAd-thumbnail.jpg)
+![Image](/img/DoorClosingAd_thumbnail.jpg)
 
-![Image](/img/Poster-AD-Redtail-thumbnail.jpg)
+![Image](/img/Poster-AD-Redtail_thumbnail.jpg)
 
-![Image](/img/snapchatFilterRedtail-thumbnail.jpg)
+![Image](/img/snapchatFilterRedtail_thumbnail.jpg)
 
 ![Image](/img/SavannaShaver_LinkedIn_Banner.png)
 
