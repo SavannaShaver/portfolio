@@ -25,50 +25,28 @@ This section includes a few projects I worked on for my previous employer Cardin
 
 # Miscellaneous Designs
 
-
+```markdown
 Created a logo for my highschool art show.
 
    ![Image](/img/ArtShowLogo_thumbnail.jpg)
 
+```
 
-
-Created these designs using Adobe Photoshop in my Digital Media Arts Fundamentals course in college.
+```markdown
+Created these designs using Adobe in my Digital Media Arts Fundamentals course. 
 
    ![Image](/img/SelfReflection_thumbnail.jpg)
    ![Image](/img/WordsCombined.jpg)  
-
+```
 
 ```markdown
-This section is a T-shirt design idea I created for fun. I never made the shirt but I did edit it on to one of my brother's pictures to give a visual of the finished product.
+Created a T-shirt design
 ```
+I created this design for fun. I never made the shirt but I did edit it on to one of my brother's pictures to give a visual of the finished product.
+
 ![Image](/img/AnatomyPaint.jpg)
 ![Image](/img/TshirtDesign.jpg)
 
-
-
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](/img/ArtShowLogo.jpg)
-```
 
 ### Support or Contact
 
