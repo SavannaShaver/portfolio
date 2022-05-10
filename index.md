@@ -27,17 +27,19 @@ This section includes a few projects I worked on for my previous employer Cardin
 
 ```markdown
 Created a logo for my highschool art show.
+```
 
    ![Image](/img/ArtShowLogo_thumbnail.jpg)
 
-```
+
 
 ```markdown
 Created these designs using Adobe in my Digital Media Arts Fundamentals course. 
+```
 
    ![Image](/img/SelfReflection_thumbnail.jpg)
    ![Image](/img/WordsCombined.jpg)  
-```
+
 
 ```markdown
 Created a T-shirt design
