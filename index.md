@@ -1,4 +1,5 @@
-# Savanna Shaver's Creative Portfolio 
+![Image](/img/SavannaShaver_LinkedIn_Banner.png)
+
 
 ## Websites I Created:  
 
@@ -23,8 +24,6 @@ This section includes a few projects I worked on for my previous employer Cardin
 ![Image](/img/Poster-AD-Redtail_thumbnail.jpg)
 
 ![Image](/img/snapchatFilterRedtail_thumbnail.jpg)
-
-![Image](/img/SavannaShaver_LinkedIn_Banner.png)
 
 ![Image](/img/ArtShowLogo.jpg)
 ```
