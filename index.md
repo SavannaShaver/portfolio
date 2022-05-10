@@ -8,9 +8,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+WEBSITES I HAVE CREATED:
+[Fake Gym Website](https://artsyone.github.io/meldorsgym/about.html)
+[CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
+
 CREATED IMAGE BELOW:
 
+
+![Image](/img/WeAreHiring.jpg)
+
+![Image](/img/DoorClosingAd.jpg)
+
+![Image](/img/Poster-AD-Redtail.jpg)
+
+![Image](/img/snapchatFilterRedtail.jpg)
+
+![Image](/img/SavannaShaver_LinkedIn_Banner.jpg)
+
 ![Image](/img/ArtShowLogo.jpg)
+
+
 
 ```markdown
 Syntax highlighted code block
