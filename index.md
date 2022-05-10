@@ -23,7 +23,7 @@ CREATED IMAGE BELOW:
 
 ![Image](/img/snapchatFilterRedtail.jpg)
 
-![Image](/img/SavannaShaver_LinkedIn_Banner.jpg)
+![Image](/img/SavannaShaver_LinkedIn_Banner.png)
 
 ![Image](/img/ArtShowLogo.jpg)
 
