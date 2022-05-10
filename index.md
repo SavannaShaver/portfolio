@@ -1,6 +1,6 @@
-## Savanna Shaver's Creative Portfolio 
+# Savanna Shaver's Creative Portfolio 
 
-# Websites I Created:  
+## Websites I Created:  
 
 These sites were created throughout highschool and college using HTML and CSS.
 
@@ -10,11 +10,11 @@ These sites were created throughout highschool and college using HTML and CSS.
 -[CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
 
 
-# Graphic Design/ Marketing Projects I made for Cardinal Managment Group:
+## Graphic Design/ Marketing Projects I made for Cardinal Managment Group:
 
 This section includes a few projects I worked on for my previous employer Cardinal. The company primarly had me work on Canva and other free digital art programs.
 
-
+```markdown
 
 ![Image](/img/WeAreHiring_thumbnail.jpg)
 
@@ -27,6 +27,7 @@ This section includes a few projects I worked on for my previous employer Cardin
 ![Image](/img/SavannaShaver_LinkedIn_Banner.png)
 
 ![Image](/img/ArtShowLogo.jpg)
+```
 
 
 
