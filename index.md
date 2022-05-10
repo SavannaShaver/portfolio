@@ -9,6 +9,9 @@ These sites were created throughout highschool and college using HTML and CSS.
 
 - [CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
 
+- [Sava's Restaurant](https://github.com/SavannaShaver/Highschool_Websites/tree/main/Restaurant_Website)
+
+
 
 # Graphic Design/ Marketing Projects I made for Cardinal Managment Group:
 
@@ -34,7 +37,7 @@ Created a logo using Adobe for my highschool art show.
 
 
 ```markdown
-Designs created for my Digital Media Arts Fundamentals course using Adobe.
+Designs I created for my Digital Media Arts Fundamentals course using Adobe.
 ```
 
    ![Image](/img/SelfReflection_thumbnail.jpg)
@@ -44,6 +47,7 @@ Designs created for my Digital Media Arts Fundamentals course using Adobe.
 ```markdown
 Created a T-shirt design
 ```
+
     I created this design for fun. I never made the shirt but I did edit it on to one of my brother's pictures to give a visual of the finished product.
 
 ![Image](/img/AnatomyPaint.jpg)
