@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 CREATED IMAGE BELOW:
 
-![Image](img/ArtShowLogo.jpg)
+![Image](/img/ArtShowLogo.jpg)
 
 ```markdown
 Syntax highlighted code block
