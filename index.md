@@ -2,7 +2,7 @@
 
 # Websites I Created:  
 
-These sites were created throughout highschool and college using HTML and CSS.
+These sites were created throughout college and highschool using HTML and CSS.
 
 
 - [Fake Gym Website](https://artsyone.github.io/meldorsgym/index.html)
