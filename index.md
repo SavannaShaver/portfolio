@@ -24,6 +24,7 @@ These sites were created throughout highschool and college using HTML and CSS.
 ![Image](/img/Poster-AD-Redtail_thumbnail.jpg)
 
 ![Image](/img/snapchatFilterRedtail_thumbnail.jpg)
+
 ^this is a snapchat filter.
 
   
@@ -49,10 +50,11 @@ Designs I created for my Digital Media Arts Fundamentals course using Adobe.
 ```markdown
 Created a T-shirt design
 ```
-![Image](/img/AnatomyPaint.jpg)
-![Image](/img/TshirtDesign.jpg)
 
 I created this design for fun. I never made the shirt but I did edit it on to one of my brother's pictures to give a visual of the finished product.
+
+![Image](/img/AnatomyPaint.jpg)
+![Image](/img/TshirtDesign.jpg)
   
   
 ### Support or Contact
