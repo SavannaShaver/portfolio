@@ -15,13 +15,13 @@ WEBSITES I HAVE CREATED:
 CREATED IMAGE BELOW:
 
 
-![Image](/img/WeAreHiring.jpg)
+![Image](/img/WeAreHiring_thumbnail.jpg)
 
 ![Image](/img/DoorClosingAd.jpg)
 
 ![Image](/img/Poster-AD-Redtail.jpg)
 
-![Image](/img/snapchatFilterRedtail.jpg)
+![Image](/img/snapchatFilterRedtail-cropped.jpg)
 
 ![Image](/img/SavannaShaver_LinkedIn_Banner.png)
 
