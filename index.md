@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Savanna Shaver's Creative Portfolio 
 
-You can use the [editor on GitHub](https://github.com/SavannaShaver/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Websites I Created:  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+These sites were created throughout highschool and college using HTML and CSS.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[Fake Gym Website](https://artsyone.github.io/meldorsgym/index.html)
 
-WEBSITES I HAVE CREATED:
-[Fake Gym Website](https://artsyone.github.io/meldorsgym/about.html)
+-[CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
 
-[CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
 
-CREATED IMAGE BELOW:
+# Graphic Design/ Marketing Projects I made for Cardinal Managment Group:
+
+This section includes a few projects I worked on for my previous employer Cardinal. The company primarly had me work on Canva and other free digital art programs.
+
 
 
 ![Image](/img/WeAreHiring_thumbnail.jpg)
