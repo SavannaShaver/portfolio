@@ -12,7 +12,7 @@ These sites were created throughout highschool and college using HTML and CSS.
 
 # Graphic Design/ Marketing Projects I made for Cardinal Managment Group:
 
-This section includes a few projects I worked on for my previous employer Cardinal. The company primarly had me work on Canva and other free digital art programs.
+   This section includes a few projects I worked on for my previous employer Cardinal. The company primarly had me work on Canva and other free digital art programs.
 
 ![Image](/img/WeAreHiring_thumbnail.jpg)
 
@@ -26,7 +26,7 @@ This section includes a few projects I worked on for my previous employer Cardin
 # Miscellaneous Designs
 
 ```markdown
-Created a logo for my highschool art show.
+Created a logo using Adobe for my highschool art show.
 ```
 
    ![Image](/img/ArtShowLogo_thumbnail.jpg)
@@ -34,7 +34,7 @@ Created a logo for my highschool art show.
 
 
 ```markdown
-Created these designs using Adobe in my Digital Media Arts Fundamentals course. 
+Designs created for my Digital Media Arts Fundamentals course using Adobe.
 ```
 
    ![Image](/img/SelfReflection_thumbnail.jpg)
@@ -44,7 +44,7 @@ Created these designs using Adobe in my Digital Media Arts Fundamentals course.
 ```markdown
 Created a T-shirt design
 ```
-I created this design for fun. I never made the shirt but I did edit it on to one of my brother's pictures to give a visual of the finished product.
+    I created this design for fun. I never made the shirt but I did edit it on to one of my brother's pictures to give a visual of the finished product.
 
 ![Image](/img/AnatomyPaint.jpg)
 ![Image](/img/TshirtDesign.jpg)
