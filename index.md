@@ -27,18 +27,16 @@ This section includes a few projects I worked on for my previous employer Cardin
 ## Miscellaneous Designs
 
 
-```markdown
 Created a logo for my highschool art show.
-```
 
-![Image](/img/ArtShowLogo_thumbnail.jpg)
+   ![Image](/img/ArtShowLogo_thumbnail.jpg)
 
 
-```markdown
+
 Created these designs using Adobe Photoshop in my Digital Media Arts Fundamentals course in college.
-```
-![Image](/img/SelfReflection_thumbnail.jpg)
-![Image](/img/WordsCombined.jpg)
+
+   ![Image](/img/SelfReflection_thumbnail.jpg)
+   ![Image](/img/WordsCombined.jpg)  
 
 
 ```markdown
