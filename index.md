@@ -6,9 +6,9 @@
 These sites were created throughout highschool and college using HTML and CSS.
 
 
--[Fake Gym Website](https://artsyone.github.io/meldorsgym/index.html)
+- [Fake Gym Website](https://artsyone.github.io/meldorsgym/index.html)
 
--[CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
+- [CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
 
 
 ## Graphic Design/ Marketing Projects I made for Cardinal Managment Group:
@@ -23,7 +23,37 @@ This section includes a few projects I worked on for my previous employer Cardin
 
 ![Image](/img/snapchatFilterRedtail_thumbnail.jpg)
 
+
+## Miscellaneous Designs
+
+Created a logo for my highschool art show.
+
+```markdown
 ![Image](/img/ArtShowLogo.jpg)
+```
+
+
+Created these designs using Adobe Photoshop in my Digital Media Arts Fundamentals course in college.
+
+```markdown
+![Image](/img/SelfReflection_thumbnail.jpg)
+![Image](/img/WordsCombined.jpg)
+```
+
+This section is a T-shirt design idea I created for fun. I never made the shirt but I did edit it on to one of my brother's pictures to give a visual of the finished product.
+
+```markdown
+![Image](/img/AnatomyPaint.jpg)
+![Image](/img/TshirtDesign.jpg)
+
+```
+
+
+
+
+
+
+
 
 
 ```markdown
@@ -44,12 +74,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SavannaShaver/portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Want to see more? Please email me the medium you would like to see and I can send more of my work! Over the last 8 years I have created alot of art work, some video editing projects, photography, and fine art.
