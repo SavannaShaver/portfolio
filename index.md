@@ -15,8 +15,6 @@ These sites were created throughout highschool and college using HTML and CSS.
 
 This section includes a few projects I worked on for my previous employer Cardinal. The company primarly had me work on Canva and other free digital art programs.
 
-```markdown
-
 ![Image](/img/WeAreHiring_thumbnail.jpg)
 
 ![Image](/img/DoorClosingAd_thumbnail.jpg)
@@ -26,8 +24,6 @@ This section includes a few projects I worked on for my previous employer Cardin
 ![Image](/img/snapchatFilterRedtail_thumbnail.jpg)
 
 ![Image](/img/ArtShowLogo.jpg)
-```
-
 
 
 ```markdown
