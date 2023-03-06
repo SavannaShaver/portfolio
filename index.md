@@ -2,7 +2,7 @@
 
 # Websites I Created:  
 
-These sites were created throughout college and highschool using HTML and CSS.
+These sites were created throughout my college and highschool career using HTML and CSS.
 
 
 - [Fake Gym Website](https://artsyone.github.io/meldorsgym/index.html)
@@ -10,7 +10,6 @@ These sites were created throughout college and highschool using HTML and CSS.
 - [CSCE 190 Covid 19 Testing App Website](https://SavannaShaver.github.io)
 
 - [Sava's Restaurant](https://github.com/SavannaShaver/Highschool_Websites/tree/main/Restaurant_Website)
-
 
 
 # Graphic Design/ Marketing Projects I made for Cardinal Managment Group:
